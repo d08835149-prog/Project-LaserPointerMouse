@@ -1,9 +1,9 @@
 Item Name,Qty,Price (total) (USD),Item link,Notes
-Laser Pointer,1,$56.00,"Classroom Green Laser Pointer (Class 3R, 532 nm)",Already owned – not requesting funding. Required to use the project.
-Raspberry Pi Zero 2 W,1,$17.25,Raspberry Pi Zero 2 W | SC1146,It is the brain of this project.
-Raspberry Pi Camera Module 3,1,$26.95,Raspberry Pi Camera Module 3,
-Raspberry Pi Zero Camera Cable,1,$5.95,Raspberry Pi Zero Camera Cable,
-Raspberry Pi MicroSD Card,1,$24.95,Raspberry Pi MicroSD Card,
+Laser Pointer,1,$56.00,https://laserclassroom.com/products/classroom-green-laser-pointer,Already owned – not requesting funding. Required to use the project.
+Raspberry Pi Zero 2 W,1,$17.25,https://www.pishop.us/product/raspberry-pi-zero-2-w/?src=raspberrypi,It is the brain of this project.
+Raspberry Pi Camera Module 3,1,$26.95,https://www.canakit.com/raspberry-pi-camera-module-3.html?cid=usd&src=raspberrypi,
+Raspberry Pi Zero Camera Cable,1,$5.95,https://www.canakit.com/raspberry-pi-zero-camera-cable.html,
+Raspberry Pi MicroSD Card,1,$24.95,https://www.canakit.com/raspberry-pi-micro-sd-card.html?cid=USD&src=raspberrypi,
 Raspberry Pi 3 / Zero Power Supply (Micro USB),1,$8.00,https://www.canakit.com/raspberry-pi-3-zero-power-supply-micro-usb.html?cid=usd&src=raspberrypi,
 3D Printed Enclosure – custom designed,1,$20.12,,"https://craftcloud3d.com/en/upload Checking here for FDM, PLA, and black color, it costs 21.12 USD."
 ,,,,
