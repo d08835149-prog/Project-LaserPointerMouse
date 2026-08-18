@@ -56,6 +56,8 @@ It receives images from the Camera Module 3, detects the laser point, calculates
 
 ## Wiring Diagram
 
+* Since this project does not use external pins such as GPIO, there is no circuit diagram, so it has been replaced with a photo of the structure diagram.
+
 The wiring diagram shows the connection between:
 
 **Raspberry Pi Camera Module 3 → Camera Cable → Raspberry Pi Zero 2 W → 5V Power**
