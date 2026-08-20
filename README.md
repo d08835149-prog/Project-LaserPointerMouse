@@ -50,9 +50,37 @@ The CAD files are included in this repository.
 
 ## Software
 
-The software runs on the Raspberry Pi Zero 2 W.
+The final software is designed to run on the Raspberry Pi Zero 2 W with the Raspberry Pi Camera Module 3.
 
-It receives images from the Camera Module 3, detects the laser point, calculates its position, and converts that position into mouse movement.
+Since I do not have the Raspberry Pi hardware yet, I am currently developing and testing the software on a Windows laptop using its built-in webcam.
+
+The current Python prototype can:
+
+* Capture live video from the webcam
+* Detect a green laser point using OpenCV
+* Calculate the laser position as `(x, y)` coordinates
+* Convert camera coordinates into screen coordinates
+* Control the Windows mouse cursor
+* Smooth the cursor movement and reduce small unwanted movements
+* Calibrate four points of the target area
+* Use perspective transformation to improve coordinate accuracy
+
+The software is separated into:
+
+* `main.py` — runs the main program
+* `laser_detector.py` — detects the green laser point
+* `coordinate_mapper.py` — handles calibration and coordinate mapping
+* `mouse_controller.py` — handles smoothing and mouse movement
+
+The current prototype uses:
+
+**Laptop Webcam → Python + OpenCV → Green Laser Detection → Coordinate Mapping → Windows Mouse**
+
+After I receive the hardware, I will replace the laptop webcam with the Raspberry Pi Camera Module 3 and run the software on the Raspberry Pi Zero 2 W.
+
+The final goal is:
+
+**Pi Camera → Raspberry Pi Zero 2 W → Laser Detection → Coordinate Mapping → USB HID Mouse → Windows**
 
 ## Wiring Diagram
 
