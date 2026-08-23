@@ -88,6 +88,8 @@ The final goal is:
 
 The wiring diagram shows the connection between:
 
+![Diagram](Circuit diagram and structural diagram.png)
+
 **Raspberry Pi Camera Module 3 → Camera Cable → Raspberry Pi Zero 2 W → 5V Power**
 
 ## BOM
