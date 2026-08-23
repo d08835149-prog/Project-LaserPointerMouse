@@ -90,6 +90,25 @@ The wiring diagram shows the connection between:
 
 **Raspberry Pi Camera Module 3 → Camera Cable → Raspberry Pi Zero 2 W → 5V Power**
 
+## BOM
+
+<details>
+<summary>📦 Bill of Materials (BOM)</summary>
+
+| Item | Qty | Price (USD) | Item Link | Notes |
+|---|---:|---:|---|---|
+| Laser Pointer | 1 | $56.00 | [Link](https://laserclassroom.com/products/classroom-green-laser-pointer) | Already owned – not requesting funding. Required to use the project. |
+| Raspberry Pi Zero 2 W | 1 | $17.25 | [Link](https://www.pishop.us/product/raspberry-pi-zero-2-w/?src=raspberrypi) | It is the brain of this project. |
+| Raspberry Pi Camera Module 3 | 1 | $26.95 | [Link](https://www.canakit.com/raspberry-pi-camera-module-3.html?cid=usd&src=raspberrypi) | |
+| Raspberry Pi Zero Camera Cable | 1 | $5.95 | [Link](https://www.canakit.com/raspberry-pi-zero-camera-cable.html) | |
+| Raspberry Pi MicroSD Card | 1 | $24.95 | [Link](https://www.canakit.com/raspberry-pi-micro-sd-card.html?cid=USD&src=raspberrypi) | |
+| Raspberry Pi 3 / Zero Power Supply (Micro USB) | 1 | $8.00 | [Link](https://www.canakit.com/raspberry-pi-3-zero-power-supply-micro-usb.html?cid=usd&src=raspberrypi) | |
+| 3D Printed Enclosure – custom designed | 1 | $21.12 | [Craftcloud 3D](https://craftcloud3d.com/en/upload) | FDM, PLA, black. Estimated price: $21.12 USD. |
+
+**Total Price: $160.22 USD**
+
+</details>
+
 ## What I Learned
 
 Through this project, I learned more about:
